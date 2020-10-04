@@ -1,0 +1,110 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptAmount.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptInR.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptHomeYears.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "lblCal.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "btnHomeLoan.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "Label1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "inptMonCar.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "btnCarLoan.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "800",
+  "id": "carLoan",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": "800"
+}
